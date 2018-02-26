@@ -1,0 +1,11 @@
+# blackberry os 7 Temp File
+*.cso
+*.debug
+*.jad
+*.jar
+*.jdp
+~*~
+
+# Mac OS
+
+.DS_Store
