@@ -3,7 +3,6 @@
 *.debug
 *.jad
 *.jar
-*.jdp
 ~*~
 
 # Mac OS
